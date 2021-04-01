@@ -1,0 +1,47 @@
+.header {
+  background-color: var(--dark);
+  color: var(--light);
+  margin: 0;
+  width: 100vw;
+  padding: 0 0 0 10px;
+}
+
+.h-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.h-brand {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.h-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--mp-green);
+  margin-left: 2rem;
+}
+.h-option,
+.h-action {
+  display: grid;
+  place-items: center;
+}
+.h-action {
+  margin-right: 2rem;
+}
+.h-text {
+  font-size: large;
+  font-weight: 600;
+  margin: 5px 20px;
+}
+
+.h-link {
+  text-decoration: none;
+  color: var(--light);
+}
+
+/** 
+*Note: Make responsive
+*Todo:Make responsive
+*/

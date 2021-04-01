@@ -1,0 +1,44 @@
+.footer {
+  width: 100vw;
+  min-width: 20vw;
+  background-color: var(--dark);
+  color: var(--light);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.f-brand {
+  color: var(--mp-green);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.f-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.h-credit {
+  margin: 0;
+}
+.f-cd {
+  margin: 0;
+}
+.f-box {
+  flex: 0 1 250px;
+  margin: 5px;
+  height: fit-content;
+  padding: 0;
+}
+
+.f-connect {
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.f-link {
+  text-decoration: none;
+  color: var(--light);
+  margin: 10px 10px;
+}
+
+.f-hl {
+  color: red;
+}
