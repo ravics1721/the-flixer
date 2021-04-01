@@ -1,6 +1,8 @@
 # The Flixer
 
-A place to explore your favorite movies
+A place to explore your favorite movies 
+#### Live on 
+https://theflixer.vercel.app/
 
 ## Getting Started
 
